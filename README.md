@@ -14,4 +14,5 @@ Pictures below:
 ![alt tag](https://raw.github.com/darknoon/tunepower/master/readme-media/Breadboard_Prototype_Downscaled.jpg)
 ![alt tag](https://raw.github.com/darknoon/tunepower/master/readme-media/Digispark_front_Downscaled.jpg)
 ![alt tag](https://raw.github.com/darknoon/tunepower/master/readme-media/Digispark_back_Downscaled.jpg)
+![alt tag](https://raw.github.com/darknoon/tunepower/master/readme-media/Schematic.JPG)
 
